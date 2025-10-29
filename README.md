@@ -1,4 +1,4 @@
-# Yo, I'm known to my friends as Kira.
+# Hello, I'm known to my friends as Kira.
 Welcome to my GitHub! I'm a Software Engineer and avid Traveler.
 
 🌱 Currently Learning:
