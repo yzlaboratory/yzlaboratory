@@ -14,4 +14,4 @@ Welcome to my GitHub! I'm a Software Engineer and avid Traveler.
 - [Your sideproject deserves a PostgreSQL Database that doesn't bankrupt you](https://medium.com/@sophisticatedmemento/your-sideproject-deserves-a-postgresql-database-1273e1df2c0c)
 
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yzlaboratory&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
