@@ -25,7 +25,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## My technical Blog
+## 📝 My technical Blog
 - [Medium](https://medium.com/@sophisticatedmemento)
 
 ### 📔 Latest Blog Posts
