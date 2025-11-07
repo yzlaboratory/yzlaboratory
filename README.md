@@ -13,5 +13,3 @@ Welcome to my GitHub! I'm a Software Engineer and avid Traveler.
 - [Your Project Deserves a Safe Home; Harden Your Linux Server First](https://medium.com/@sophisticatedmemento/your-project-deserves-a-safe-home-harden-your-linux-server-first-9954fe4174a3)
 - [Your sideproject deserves a PostgreSQL Database that doesn't bankrupt you](https://medium.com/@sophisticatedmemento/your-sideproject-deserves-a-postgresql-database-1273e1df2c0c)
 
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yzlaboratory&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
