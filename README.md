@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yzlaboratory.yzlaboratory)
 
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -24,6 +25,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+![51IQ5LqXqYL](https://github.com/user-attachments/assets/c5e55b4f-cc33-405c-9f2e-733c6f7761ea)
 
 ## 📝 My technical Blog
 - [Medium](https://medium.com/@sophisticatedmemento)
