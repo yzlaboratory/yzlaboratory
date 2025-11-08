@@ -25,7 +25,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-![51IQ5LqXqYL](https://github.com/user-attachments/assets/c5e55b4f-cc33-405c-9f2e-733c6f7761ea)
 
 ## 📝 My technical Blog
 - [Medium](https://medium.com/@sophisticatedmemento)
@@ -65,3 +64,5 @@ me.say_hi()
 ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=844FBA)
 ![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=EE0000)
 ![nginx](https://img.shields.io/badge/nginx-informational?style=flat&logo=nginx&logoColor=white&color=009639)
+
+![51IQ5LqXqYL](https://github.com/user-attachments/assets/c5e55b4f-cc33-405c-9f2e-733c6f7761ea)
